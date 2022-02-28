@@ -10,4 +10,8 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TahaMsv&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Taha mousavi's Github Stets" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=TahaMsv&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Taha mousavi's Github Stets" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMsv&layout=compact&theme=tokyonight" alt="Taha mousavi's Github Stets" />
+<br />
+</p>
