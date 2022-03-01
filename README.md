@@ -3,7 +3,6 @@
 - I’m currently working on project online check-in.
 - I’m learning anything related to the flutter.
 - How to reach me: [mail]( tahamousavi.sbu@gmail.com)
-- Fun fact: Music addict. Not funny but definitely a fact.
 
 
 <!--- 
